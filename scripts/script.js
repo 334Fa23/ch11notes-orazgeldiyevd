@@ -1,7 +1,7 @@
 /*
-Student Name: Your Name
+Student Name: Didar Orazgeldiyev
 File Name: script.js
-Date: Today's Date
+Date: 09/24/2023
 */
 
 //Global Variables
